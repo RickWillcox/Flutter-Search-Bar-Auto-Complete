@@ -2,5 +2,6 @@ A bare bones example of a Search Bar in Flutter that shows possible autocompleti
 
 
 
-https://user-images.githubusercontent.com/53924507/162653782-40970e71-842f-403b-9f27-59163f321370.mp4
+
+https://user-images.githubusercontent.com/53924507/162653857-3f22f840-5f7e-43b8-b7cb-0e37caf56a34.mp4
 
